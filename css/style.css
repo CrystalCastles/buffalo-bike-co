@@ -55,13 +55,13 @@ img {
 }
 
 .button-accent {
-  color: #00ff6c;
-  border-color: #00ff6c;
+  color: #0057e7;
+  border-color: #0057e7;
 }
 
 .button-accent:hover,
 .button-accent:focus {
-  background: #00ff6c;
+  background: #0057e7;
   color: #232323;
 }
 
