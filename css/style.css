@@ -78,13 +78,13 @@ p:last-of-type {
 }
 
 .button-accent {
-  color: #0057e7;
-  border-color: #0057e7;
+  color: #d17c78;
+  border-color: #d17c78;
 }
 
 .button-accent:hover,
 .button-accent:focus {
-  background: #0057e7;
+  background: #d17c78;
   color: #232323;
 }
 
@@ -165,14 +165,14 @@ nav a:focus {
   padding: 4em;
   margin-left: -2.5vw;
   margin-right: -2.5vw;
-  outline: 2px solid #00ff6c;
+  outline: 2px solid #d17c78;
   outline-offset: -2.5em;
   color: #FFF;
   position: relative;
 }
 
 .home-about-textbox h1 {
-  color: #00ff6c;
+  color: #d17c78;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
